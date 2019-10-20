@@ -1,0 +1,23 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\lib\idea_rt.jar=50468:C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Efrem Mc\source\Arrays\out\production\Arrays" Arrays
+Original:
+I'm shocked, shocked to find that gambling is going on in here!
+
+New word:
+I'm SHOCKED, shocked to find that gambling is going on in here!
+
+david
+Eric
+Jose
+Mustapha
+Kevin
+Melissa
+Rodolfo
+Peter
+Efrem
+John
+
+Process finished with exit code 0
+
+Programming notes:
+We use basic string routines to find the lenght of the string, search the string for another string, 
+return the position where it was found and used that number to build a new string.
